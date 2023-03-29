@@ -1,0 +1,342 @@
+01:01:19
+pin digital No. 2 = 1
+pin digital No. 3 = 1
+pin digital No. 4 = 1
+pin digital No. 5 = 1
+pin digital No. 6 = 1
+pin digital No. 7 = 1
+pin digital No. 8 = 1
+pin digital No. 9 = 1
+pin digital No. 10 = 1
+pin digital No. 11 = 1
+pin digital No. 12 = 1
+pin digital No. 13 = 1
+puerto analogico No. 0 = 387
+puerto analogico No. 1 = 358
+puerto analogico No. 2 = 333
+puerto analogico No. 3 = 318
+puerto analogico No. 4 = 313
+puerto analogico No. 5 = 311
+--------
+01:01:19
+pin digital No. 2 = 1
+pin digital No. 3 = 1
+pin digital No. 4 = 1
+pin digital No. 5 = 1
+pin digital No. 6 = 1
+pin digital No. 7 = 1
+pin digital No. 8 = 1
+pin digital No. 9 = 1
+pin digital No. 10 = 1
+pin digital No. 11 = 1
+pin digital No. 12 = 1
+pin digital No. 13 = 1
+puerto analogico No. 0 = 309
+puerto analogico No. 1 = 307
+puerto analogico No. 2 = 298
+puerto analogico No. 3 = 294
+puerto analogico No. 4 = 295
+puerto analogico No. 5 = 297
+--------
+01:01:19
+pin digital No. 2 = 1
+pin digital No. 3 = 1
+pin digital No. 4 = 1
+pin digital No. 5 = 1
+pin digital No. 6 = 1
+pin digital No. 7 = 1
+pin digital No. 8 = 1
+pin digital No. 9 = 1
+pin digital No. 10 = 1
+pin digital No. 11 = 1
+pin digital No. 12 = 1
+pin digital No. 13 = 1
+puerto analogico No. 0 = 302
+puerto analogico No. 1 = 300
+puerto analogico No. 2 = 293
+puerto analogico No. 3 = 289
+puerto analogico No. 4 = 291
+puerto analogico No. 5 = 292
+--------
+01:01:19
+pin digital No. 2 = 1
+pin digital No. 3 = 1
+pin digital No. 4 = 1
+pin digital No. 5 = 1
+pin digital No. 6 = 1
+pin digital No. 7 = 1
+pin digital No. 8 = 1
+pin digital No. 9 = 1
+pin digital No. 10 = 1
+pin digital No. 11 = 1
+pin digital No. 12 = 1
+pin digital No. 13 = 1
+puerto analogico No. 0 = 301
+puerto analogico No. 1 = 300
+puerto analogico No. 2 = 293
+puerto analogico No. 3 = 289
+puerto analogico No. 4 = 292
+puerto analogico No. 5 = 292
+--------
+01:01:20
+pin digital No. 2 = 1
+pin digital No. 3 = 1
+pin digital No. 4 = 1
+pin digital No. 5 = 1
+pin digital No. 6 = 1
+pin digital No. 7 = 1
+pin digital No. 8 = 1
+pin digital No. 9 = 1
+pin digital No. 10 = 1
+pin digital No. 11 = 1
+pin digital No. 12 = 1
+pin digital No. 13 = 1
+puerto analogico No. 0 = 301
+puerto analogico No. 1 = 300
+puerto analogico No. 2 = 293
+puerto analogico No. 3 = 289
+puerto analogico No. 4 = 292
+puerto analogico No. 5 = 292
+--------
+01:01:21
+pin digital No. 2 = 1
+pin digital No. 3 = 1
+pin digital No. 4 = 1
+pin digital No. 5 = 1
+pin digital No. 6 = 1
+pin digital No. 7 = 1
+pin digital No. 8 = 1
+pin digital No. 9 = 1
+pin digital No. 10 = 1
+pin digital No. 11 = 1
+pin digital No. 12 = 1
+pin digital No. 13 = 1
+puerto analogico No. 0 = 300
+puerto analogico No. 1 = 299
+puerto analogico No. 2 = 292
+puerto analogico No. 3 = 289
+puerto analogico No. 4 = 291
+puerto analogico No. 5 = 291
+--------
+01:01:22
+pin digital No. 2 = 1
+pin digital No. 3 = 1
+pin digital No. 4 = 1
+pin digital No. 5 = 1
+pin digital No. 6 = 1
+pin digital No. 7 = 1
+pin digital No. 8 = 1
+pin digital No. 9 = 1
+pin digital No. 10 = 1
+pin digital No. 11 = 1
+pin digital No. 12 = 1
+pin digital No. 13 = 1
+puerto analogico No. 0 = 300
+puerto analogico No. 1 = 299
+puerto analogico No. 2 = 292
+puerto analogico No. 3 = 289
+puerto analogico No. 4 = 292
+puerto analogico No. 5 = 292
+--------
+01:01:23
+pin digital No. 2 = 1
+pin digital No. 3 = 1
+pin digital No. 4 = 1
+pin digital No. 5 = 1
+pin digital No. 6 = 1
+pin digital No. 7 = 1
+pin digital No. 8 = 1
+pin digital No. 9 = 1
+pin digital No. 10 = 1
+pin digital No. 11 = 1
+pin digital No. 12 = 1
+pin digital No. 13 = 1
+puerto analogico No. 0 = 300
+puerto analogico No. 1 = 299
+puerto analogico No. 2 = 292
+puerto analogico No. 3 = 288
+puerto analogico No. 4 = 291
+puerto analogico No. 5 = 291
+--------
+01:01:24
+pin digital No. 2 = 1
+pin digital No. 3 = 1
+pin digital No. 4 = 1
+pin digital No. 5 = 1
+pin digital No. 6 = 1
+pin digital No. 7 = 1
+pin digital No. 8 = 1
+pin digital No. 9 = 1
+pin digital No. 10 = 1
+pin digital No. 11 = 1
+pin digital No. 12 = 1
+pin digital No. 13 = 1
+puerto analogico No. 0 = 299
+puerto analogico No. 1 = 298
+puerto analogico No. 2 = 292
+puerto analogico No. 3 = 288
+puerto analogico No. 4 = 291
+puerto analogico No. 5 = 291
+--------
+01:01:25
+pin digital No. 2 = 1
+pin digital No. 3 = 1
+pin digital No. 4 = 1
+pin digital No. 5 = 1
+pin digital No. 6 = 1
+pin digital No. 7 = 1
+pin digital No. 8 = 1
+pin digital No. 9 = 1
+pin digital No. 10 = 1
+pin digital No. 11 = 1
+pin digital No. 12 = 1
+pin digital No. 13 = 1
+puerto analogico No. 0 = 300
+puerto analogico No. 1 = 299
+puerto analogico No. 2 = 292
+puerto analogico No. 3 = 289
+puerto analogico No. 4 = 291
+puerto analogico No. 5 = 291
+--------
+01:01:26
+pin digital No. 2 = 1
+pin digital No. 3 = 1
+pin digital No. 4 = 1
+pin digital No. 5 = 1
+pin digital No. 6 = 1
+pin digital No. 7 = 1
+pin digital No. 8 = 1
+pin digital No. 9 = 1
+pin digital No. 10 = 1
+pin digital No. 11 = 1
+pin digital No. 12 = 1
+pin digital No. 13 = 1
+puerto analogico No. 0 = 300
+puerto analogico No. 1 = 299
+puerto analogico No. 2 = 292
+puerto analogico No. 3 = 289
+puerto analogico No. 4 = 292
+puerto analogico No. 5 = 292
+--------
+01:01:27
+pin digital No. 2 = 1
+pin digital No. 3 = 1
+pin digital No. 4 = 1
+pin digital No. 5 = 1
+pin digital No. 6 = 1
+pin digital No. 7 = 1
+pin digital No. 8 = 1
+pin digital No. 9 = 1
+pin digital No. 10 = 1
+pin digital No. 11 = 1
+pin digital No. 12 = 1
+pin digital No. 13 = 1
+puerto analogico No. 0 = 299
+puerto analogico No. 1 = 298
+puerto analogico No. 2 = 292
+puerto analogico No. 3 = 288
+puerto analogico No. 4 = 291
+puerto analogico No. 5 = 291
+--------
+01:01:28
+pin digital No. 2 = 1
+pin digital No. 3 = 1
+pin digital No. 4 = 1
+pin digital No. 5 = 1
+pin digital No. 6 = 1
+pin digital No. 7 = 1
+pin digital No. 8 = 1
+pin digital No. 9 = 1
+pin digital No. 10 = 1
+pin digital No. 11 = 1
+pin digital No. 12 = 1
+pin digital No. 13 = 1
+puerto analogico No. 0 = 299
+puerto analogico No. 1 = 299
+puerto analogico No. 2 = 292
+puerto analogico No. 3 = 289
+puerto analogico No. 4 = 291
+puerto analogico No. 5 = 291
+--------
+01:01:29
+pin digital No. 2 = 1
+pin digital No. 3 = 1
+pin digital No. 4 = 1
+pin digital No. 5 = 1
+pin digital No. 6 = 1
+pin digital No. 7 = 1
+pin digital No. 8 = 1
+pin digital No. 9 = 1
+pin digital No. 10 = 1
+pin digital No. 11 = 1
+pin digital No. 12 = 1
+pin digital No. 13 = 1
+puerto analogico No. 0 = 300
+puerto analogico No. 1 = 299
+puerto analogico No. 2 = 292
+puerto analogico No. 3 = 289
+puerto analogico No. 4 = 291
+puerto analogico No. 5 = 291
+--------
+01:01:30
+pin digital No. 2 = 1
+pin digital No. 3 = 1
+pin digital No. 4 = 1
+pin digital No. 5 = 1
+pin digital No. 6 = 1
+pin digital No. 7 = 1
+pin digital No. 8 = 1
+pin digital No. 9 = 1
+pin digital No. 10 = 1
+pin digital No. 11 = 1
+pin digital No. 12 = 1
+pin digital No. 13 = 1
+puerto analogico No. 0 = 299
+puerto analogico No. 1 = 298
+puerto analogico No. 2 = 292
+puerto analogico No. 3 = 289
+puerto analogico No. 4 = 291
+puerto analogico No. 5 = 291
+--------
+01:01:31
+pin digital No. 2 = 1
+pin digital No. 3 = 1
+pin digital No. 4 = 1
+pin digital No. 5 = 1
+pin digital No. 6 = 1
+pin digital No. 7 = 1
+pin digital No. 8 = 1
+pin digital No. 9 = 1
+pin digital No. 10 = 1
+pin digital No. 11 = 1
+pin digital No. 12 = 1
+pin digital No. 13 = 1
+puerto analogico No. 0 = 299
+puerto analogico No. 1 = 298
+puerto analogico No. 2 = 292
+puerto analogico No. 3 = 288
+puerto analogico No. 4 = 291
+puerto analogico No. 5 = 291
+--------
+01:01:32
+pin digital No. 2 = 1
+pin digital No. 3 = 1
+pin digital No. 4 = 1
+pin digital No. 5 = 1
+pin digital No. 6 = 1
+pin digital No. 7 = 1
+pin digital No. 8 = 1
+pin digital No. 9 = 1
+pin digital No. 10 = 1
+pin digital No. 11 = 1
+pin digital No. 12 = 1
+pin digital No. 13 = 1
+puerto analogico No. 0 = 299
+puerto analogico No. 1 = 299
+puerto analogico No. 2 = 292
+puerto analogico No. 3 = 289
+puerto analogico No. 4 = 291
+puerto analogico No. 5 = 291
+--------
+01:01:33
+pin digital No. 2 = 1

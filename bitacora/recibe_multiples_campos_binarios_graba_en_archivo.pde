@@ -10,14 +10,14 @@ import processing.serial.*;
 import java.text.*;
 import java.util.*;
 
-PrintWritter output;
+PrintWriter output;
 
 DateFormat fnameFormat = new SimpleDateFormat("yyMMdd_HHmm");
-DateFormat timeFormat - new SimpleDateFormat("hh:mm:ss");
+DateFormat timeFormat = new SimpleDateFormat("hh:mm:ss");
 
 String fileName;
 Serial myPort;           // Crea objeto de clase Serial
-Serial portIndex = 0;    // selecciona el puerto
+short portIndex = 0;    // selecciona el puerto
 
 char HEADER = 'H';
 
